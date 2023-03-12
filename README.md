@@ -1,2 +1,2 @@
-# front_end
+# front-end
 basic HTML and CSS 
